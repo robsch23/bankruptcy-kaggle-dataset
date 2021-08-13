@@ -16,6 +16,3 @@ The data was obtained from UCI Machine Learning Repository: https://archive.ics.
 
 Liang, D., Lu, C.-C., Tsai, C.-F., and Shih, G.-A. (2016) Financial Ratios and Corporate Governance Indicators in Bankruptcy Prediction: A Comprehensive Study. European Journal of Operational Research, vol. 252, no. 2, pp. 561-572.
 https://www.sciencedirect.com/science/article/pii/S0377221716000412
-
-<font color="green"> Some green text </font>
-<span style="color: green"> Some green text </span>
