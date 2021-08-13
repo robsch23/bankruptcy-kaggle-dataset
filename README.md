@@ -1,4 +1,4 @@
-# bankrupycy-kaggle-dataset
+# bankruptcy-kaggle-dataset
 Machine learning project on the Kaggle dataset related to the bankruptcy of companies in Taiwan
 
 ### Context:
